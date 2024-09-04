@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Welcome to my profile :D
+I'm Hayvok, and my pronouns are she/her
+
+I have many hobbies/interests, including riding motorcycle, playing games, watching movies, programming, etc.
+
+Im currently trying to learn to write some code, specifically in python now (I've tried java in the past).
+
+Thanks for stopping by :)
 <!--
 **xHayvok/xHayvok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
