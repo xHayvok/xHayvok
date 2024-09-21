@@ -3,7 +3,7 @@
 Welcome to my profile :D
 I'm Hayvok, and my pronouns are she/her
 
-I have many hobbies/interests, including riding motorcycle, playing games, watching movies, programming, etc.
+I have many hobbies/interests, including riding motorcycle, playing games, watching movies, coding, etc.
 
 Im currently trying to learn to write some code, specifically in python now (I've tried java in the past).
 
